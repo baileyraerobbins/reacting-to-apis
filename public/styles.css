@@ -1,0 +1,67 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.jumbotron-fluid {
+    height: 35em;
+    color: white;
+    width: 100%;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: transparent !important;
+    border-color: transparent;
+    background-image: none;
+    box-shadow: none;
+    color: white;
+}
+
+.display-4 {
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+
+.heading {
+    text-emphasis: none;
+    text-align: center;
+}
+
+
+#firstImage{
+    background: url(spirited-away-2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#secondImage{
+    background: url(spiritedAwayWater.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mainParagraph{
+    text-align: center;
+}
+
+.heading {
+    text-emphasis: none;
+    text-align: center;
+}
+
+#bottomBtn {
+    margin-top: 20%;
+}
+
+#home {
+    cursor: pointer;
+    
+}
+
+#home:hover{
+    background-color: whitesmoke;
+    padding: 5px;
+}
