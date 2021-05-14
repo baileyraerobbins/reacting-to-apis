@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import NavBar from '../NavBar';
+import NavBar from './NavBar';
 
 const PeopleInfo = () => {
     const [people, setPeople] = useState([]);

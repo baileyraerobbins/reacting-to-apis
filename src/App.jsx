@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import FilmInfo from './components/FilmInfo';
 import PeopleInfo from './components/PeopleInfo';
-import NavBar from './NavBar';
+import NavBar from './components/NavBar';
 
 const App = () => {
     const [moreFilms, setDisplayFilms] = useState(false);
